@@ -1,6 +1,7 @@
 # iio-sensor-proxy-openrc
 OpenRC init script for iio-sensor-proxy.
 ## Dependencies
+* [openrc](https://github.com/OpenRC/openrc)
 * [iio-sensor-proxy](https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/)
 ## Installation
 * Clone the repository.
